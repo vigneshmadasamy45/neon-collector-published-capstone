@@ -6,7 +6,7 @@ A compact browser arcade game built with HTML, CSS, JavaScript, and the Canvas A
 
 After enabling GitHub Pages for this repository, open:
 
-`https://vigneshmadasamy45.github.io/neon-collector-published-capstone/`
+https://vigneshmadasamy45.github.io/neon-collector-published-capstone/
 
 If your GitHub username or repository name differs, update the URL accordingly. The live link becomes available after GitHub Pages finishes deploying.
 
